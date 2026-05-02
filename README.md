@@ -1,5 +1,7 @@
+# Description\Описание
+
 EN:
-# Stonecutter Damage Fix
+## Stonecutter Damage Fix
 
 The "Stonecutter Damage" bugfix.
 
@@ -21,8 +23,7 @@ The mod is lightweight and safe to add to existing modpacks. No configuration ne
 
 
 RU:
-Описание
-# Stonecutter damage fix
+## Stonecutter damage fix
 
 Фикс "Урон от камнереза".
 
