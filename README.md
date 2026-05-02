@@ -1,6 +1,6 @@
 [Read this page in English](README.en.md)
 
-[![Download Count](https://img.shields.io/github/downloads/jfd-jgd/Stonecutter-Damage-Fix/total?label=Downloads&style=flat-square)](https://github.com/jfd-jgd/Stonecutter-Damage-Fix/releases)
+[![Download Count](https://img.shields.io/github/downloads/jfd-jgd/Stonecutter-Damage-Fix/total?label=Загрузок&style=flat-square)](https://github.com/jfd-jgd/Stonecutter-Damage-Fix/releases)
 [![Latest Release](https://img.shields.io/github/v/release/jfd-jgd/Stonecutter-Damage-Fix?label=latest&style=flat-square)](https://github.com/jfd-jgd/Stonecutter-Damage-Fix/releases/latest)
 [![GitHub](https://img.shields.io/badge/GitHub-jfd--jgd-2ea44f?style=flat-square&logo=github)](https://github.com/jfd-jgd)
 
