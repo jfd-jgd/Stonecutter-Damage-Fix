@@ -52,7 +52,7 @@ The mod simply activates a hidden code that is already in the game. No complicat
 
 ---
 
-<details><summary>, License</summary>
+<details><summary>📜 License</summary>
 
 Stonecutter Damage Fix
 © jfd-jgd, 2026
