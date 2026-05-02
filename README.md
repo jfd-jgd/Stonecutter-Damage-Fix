@@ -19,6 +19,9 @@ Fabric: 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.11
 NeoForge: 1.21.11
 
 The mod is lightweight and safe to add to existing modpacks. No configuration needed, works out of the box.
+_______________________________________________________________________________________________________________
+
+
 
 
 
