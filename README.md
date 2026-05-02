@@ -1,7 +1,7 @@
 [Read this page in English](README.en.md)
 
 ![Stonecutter Damage Fix](https://img.shields.io/badge/Stonecutter%20Damage%20Fix-Free%20to%20use-2ea44f)
-![GitHub](https://img.shields.io/badge/jfd--jgd-github-2ea44f)
+![GitHub](https://img.shields.io/badge/jfd--jgd-[github](https://github.com/jfd-jgd)-2ea44f)
 
 # Stonecutter Damage Fix 🪚
 
