@@ -1,3 +1,19 @@
+# How to download mod \ Как установить мод
+
+EN:
+1. Download and install Forge / Fabric / NeoForge
+2. For fabric: Download the Fabric API
+3. Download the mod
+4. Without unpacking, copy it to .minecraft\mods
+5. Done
+
+RU:
+1. Скачай и установи Forge / Fabric / NeoForge
+2. Для fabric: Скачай Fabric API
+3. Скачай мод
+4. Не распаковывая, скопируй в .minecraft\mods
+5. Готово
+
 # Description\Описание
 
 EN:
@@ -44,3 +60,12 @@ RU:
 - **_NeoForge:_** *1.21.11*
 
 Мод легкий и безопасный для добавления в существующие пакеты модов. Настройка не требуется, работает "из коробки".
+
+
+
+
+
+## License / Лицензия
+© jfd-jgd, 2026
+Ru: Можно распространять бесплатно в неизменном виде, с указанием авторства. Менять и продавать - нельзя.  
+En: Free distribution in unchanged form with attribution is allowed. Modification and commercial use are prohibited.
