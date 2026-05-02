@@ -27,12 +27,6 @@ The mod is lightweight and safe to add to existing mod packs. No configuration i
 
 ---
 
-### How does it work?
-
-The mod simply activates a hidden code that is already in the game. No complicated changes or additional libraries.
-
----
-
 ### Supported versions
 
 | Loader | Versions of Minecraft |
