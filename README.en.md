@@ -13,7 +13,16 @@
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
 
 ---
+### 🧱 New in version 2.0.0 - Improved placement
 
+Now the stonecutter can be placed **on walls** and **on the ceiling**! 
+Like in mods for additional block placement (like *Additional Placements*), but only for the stonecutter.
+
+*At the same time:*
+- Wall and ceiling stonecutter **fully retains damage.**
+- The mechanic only works on versions [![Fabric](https://img.shields.io/badge/Fabric-1.21.11-yellow?logo=fabric&logoColor=white)](https://fabricmc.net/) and [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
+- It's still as simple as ever - no settings, just place the block wherever you want.
+---
 ### What is it?
 
 The mod corrects a long-standing mistake of vanilla Minecraft: the stonecutter block does not cause any damage, although visually it has a rotating blade. When a player or any mob steps on a stonecutter, it takes damage - exactly how it should have worked from the very beginning.
