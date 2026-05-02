@@ -38,10 +38,11 @@ The mod simply activates a hidden code that is already in the game. No complicat
 | Loader | Versions of Minecraft |
 |-----------|------------------|
 | Forge | 1.16.5, 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.1 |
-| Fabric | 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.11 ( requires Fabric API)|
+| Fabric | 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.11 |
 | NeoForge | 1.21.11 |
 
 ---
+[![Fabric API](https://img.shields.io/badge/Fabric_API-Required_for_Fabric-ee9c8a?style=flat-square&logo=fabric&logoColor=white)](https://modrinth.com/mod/fabric-api)
 
 ### 📥 How to install
 
