@@ -1,71 +1,70 @@
-# How to download mod \ Как установить мод
+[Read this page in English](README.en.md)
 
-EN:
-1. Download and install Forge / Fabric / NeoForge
-2. For fabric: Download the Fabric API
-3. Download the mod
-4. Without unpacking, copy it to .minecraft\mods
-5. Done
-_________________________________________________________________________________________________________________________
-RU:
-1. Скачай и установи Forge / Fabric / NeoForge
-2. Для fabric: Скачай Fabric API
-3. Скачай мод
-4. Не распаковывая, скопируй в .minecraft\mods
-5. Готово
+![Stonecutter Damage Fix](https://img.shields.io/badge/Stonecutter%20Damage%20Fix-Free%20to%20use-2ea44f)
+![GitHub](https://img.shields.io/badge/jfd--jgd-github-2ea44f)
 
-# Description\Описание
+# Stonecutter Damage Fix 🪚
 
-EN:
-## Stonecutter Damage Fix
+*Восстанавливает недостающий урон от камнереза.*
 
-The "Stonecutter Damage" bugfix.
+[![Forge](https://img.shields.io/badge/Forge-1.16.5_|_1.18.2_|_1.19.2_|_1.19.4_|_1.20.1_|_1.20.4_|_1.21.1-orange?logo=curseforge&logoColor=white)](https://files.minecraftforge.net/net/minecraftforge/forge/)
+[![Fabric](https://img.shields.io/badge/Fabric-1.18.2_|_1.19.2_|_1.19.4_|_1.20.1_|_1.20.4_|_1.21.11-yellow?logo=fabric&logoColor=white)](https://fabricmc.net/)
+[![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
 
-This mod fixes a long-standing vanilla bug: the stonecutter block does not deal any damage, even though it visually has a rotating blade. When a player or any mob stands on a stonecutter, they receive damage, exactly as it should have worked from the start.
+---
 
-*What this mod does:*
-- *Restores the missing stonecutter damage in vanilla Minecraft.*
-- *Works on players and all mob types (passive, hostile, etc.).*
-- *No extra features, no bloat – only the fix.*
+### Что это?
 
-It is compatible with the following mod loaders and versions:
-
-- **_Forge:_** *1.16.5, 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.1*
-- **_Fabric:_** *1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.11*
-- **_NeoForge:_** *1.21.11*
-
-The mod is lightweight and safe to add to existing modpacks. No configuration needed, works out of the box.
-___________________________________________________________________________________________________________________________
-
-
-
-
-
-RU:
-## Stonecutter damage fix
-
-Фикс "Урон от камнереза".
-
-В этом моде исправлена давняя ошибка: блок камнереза не наносит никакого урона, хотя визуально он имеет вращающееся лезвие. Когда игрок или любой моб встает на камнереза, он получает урон, именно так, как это должно было сработать с самого начала.
+Мод исправляет давнюю ошибку ванильного Minecraft: блок камнереза не наносит никакого урона, хотя визуально он имеет вращающееся лезвие. Когда игрок или любой моб встает на камнереза, он получает урон - именно так, как это должно было сработать с самого начала.
 
 *Что делает этот мод:*
-- *Восстанавливает недостающий урон от камнереза в vanilla Minecraft.*
+- *Восстанавливает недостающий урон от камнереза.*
 - *Работает на игроках и всех типах мобов (пассивных, враждебных и т.д.).*
-- *Никаких дополнительных функций, никаких наворотов – только исправление.*
-
-Он совместим со следующими загрузчиками модов и версиями:
-
-- **_Forge:_** *1.16.5, 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.1*
-- **_Fabric:_** *1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.11*
-- **_NeoForge:_** *1.21.11*
+- *Никаких дополнительных функций, никаких наворотов - только исправление.*
 
 Мод легкий и безопасный для добавления в существующие пакеты модов. Настройка не требуется, работает "из коробки".
 
+---
 
+### Как это работает?
 
+Мод просто активирует скрытый код, который уже есть в игре. Никаких сложных изменений или дополнительных библиотек.
 
+---
 
-## License / Лицензия
+### Поддерживаемые версии
+
+| Загрузчик | Версии Minecraft |
+|-----------|------------------|
+| Forge | 1.16.5, 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.1 |
+| Fabric | 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.4, 1.21.11 (требуется Fabric API)|
+| NeoForge | 1.21.11 |
+
+---
+
+### 📥 Как установить
+
+1. Скачай и установи Forge, Fabric или NeoForge под свою версию игры.
+2. Для Fabric скачай и установи Fabric API.
+3. Скачай файл мода под свой загрузчик и версию игры из раздела [Releases](https://github.com/jfd-jgd/Stonecutter-Damage-Fix/releases).
+4. Не распаковывая, скопируй .jar файл в папку mods (она находится в директории .minecraft).
+5. Готово! Мод работает.
+
+---
+
+<details><summary>📜 Лицензия</summary>
+
+Stonecutter Damage Fix
 © jfd-jgd, 2026
-Ru: Можно распространять бесплатно в неизменном виде, с указанием авторства. Менять и продавать - нельзя.  
+
+Ru: Можно распространять бесплатно в неизменном виде, с указанием авторства. Менять и продавать - нельзя.
+
 En: Free distribution in unchanged form with attribution is allowed. Modification and commercial use are prohibited.
+
+</details>
+
+---
+
+### 🙏 Благодарности
+
+Спасибо сообществу Minecraft за то, что до сих пор вдохновляет на создание модов.
