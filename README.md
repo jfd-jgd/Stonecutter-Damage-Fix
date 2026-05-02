@@ -6,7 +6,7 @@ EN:
 3. Download the mod
 4. Without unpacking, copy it to .minecraft\mods
 5. Done
-
+_________________________________________________________________________________________________________________________
 RU:
 1. Скачай и установи Forge / Fabric / NeoForge
 2. Для fabric: Скачай Fabric API
@@ -35,7 +35,7 @@ It is compatible with the following mod loaders and versions:
 - **_NeoForge:_** *1.21.11*
 
 The mod is lightweight and safe to add to existing modpacks. No configuration needed, works out of the box.
-_______________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________
 
 
 
