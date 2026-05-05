@@ -20,7 +20,7 @@ Like in mods for additional block placement (like *Additional Placements*), but 
 
 *At the same time:*
 - Wall and ceiling stonecutter **fully retains damage.**
-- The mechanic only works on versions [![Fabric](https://img.shields.io/badge/Fabric-1.21.11-yellow?logo=fabric&logoColor=white)](https://fabricmc.net/) and [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
+- The mechanic only works on all versions [![Fabric](https://img.shields.io/badge/Fabric-yellow?logo=fabric&logoColor=white)](https://fabricmc.net/) and [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
 - It's still as simple as ever - no settings, just place the block wherever you want.
 ---
 ### What is it?
