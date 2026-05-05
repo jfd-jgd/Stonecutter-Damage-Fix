@@ -27,7 +27,7 @@
 
 *При этом:*
 - Настенный и потолочный камнерез **полностью сохраняет урон**.
-- Механика работает пока что только на версиях [![Fabric](https://img.shields.io/badge/Fabric-1.21.11-yellow?logo=fabric&logoColor=white)](https://fabricmc.net/) и [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
+- Механика работает пока что только на версиях [![Fabric](https://img.shields.io/badge/Fabric-yellow?logo=fabric&logoColor=white)](https://fabricmc.net/) и [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.11-red?logo=curseforge&logoColor=white)](https://neoforged.net/)
 - Всё так же просто – никаких настроек, просто установи блок где хочешь.
 
 ---
