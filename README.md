@@ -2,7 +2,7 @@
 
 <img width="256" height="256" alt="Avatar-mods12" src="https://github.com/user-attachments/assets/f166299a-331e-4e2f-9aac-af06a06e58ad" />
 
-
+---
 
 [![Download Count](https://img.shields.io/github/downloads/jfd-jgd/Stonecutter-Damage-Fix/total?label=Загрузок&style=flat-square)](https://github.com/jfd-jgd/Stonecutter-Damage-Fix/releases)
 [![Latest Release](https://img.shields.io/github/v/release/jfd-jgd/Stonecutter-Damage-Fix?label=latest&style=flat-square)](https://github.com/jfd-jgd/Stonecutter-Damage-Fix/releases/latest)
